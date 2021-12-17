@@ -1,4 +1,4 @@
-# Neogex Parsing Standard
+# Neogex (New Expressions) Parsing Standard
 ##### Much like Regex, Neogex allows for string parsing and validation based on a set of requirements. Unlike Regex, however, Neogex is human readable, utilising a SQL-esque structure to construct validation parameters.
 ### _
 ###### For example
